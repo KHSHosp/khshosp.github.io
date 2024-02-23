@@ -1,8 +1,8 @@
 body 
 {
   font-family:Arial; 
-  background: -webkit-linear-gradient(to right, #159938, #991562); 
-  background: linear-gradient(to right, #159938, #991562); 
+  background: -webkit-linear-gradient(to right, #ebb774, #e7e4d6); 
+  background: linear-gradient(to right, #ebb774, #e7e4d6); 
   color:whitesmoke;
 }
 
@@ -10,6 +10,16 @@ h1
 {
     color: black;
     
+}
+
+table
+{
+    color: black
+}
+
+p
+{
+    color: black
 }
 
 .center {
